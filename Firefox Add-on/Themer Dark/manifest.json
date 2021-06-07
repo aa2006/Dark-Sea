@@ -15,9 +15,9 @@
         65
       ],
       "frame_inactive": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "icons_attention": [
         209,
@@ -30,9 +30,9 @@
         253
       ],
       "ntp_background": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "ntp_text": [
         209,
@@ -40,24 +40,24 @@
         253
       ],
       "popup_highlight_text": [
-        70,
-        102,
-        119
+        209,
+        255,
+        253
       ],
       "popup_highlight": [
-        181,
-        224,
-        226
+        222,
+        222,
+        222
       ],
       "toolbar_field_highlight_text": [
-        70,
-        102,
-        119
+        209,
+        255,
+        253
       ],
       "popup_border": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "popup_text": [
         209,
@@ -65,34 +65,34 @@
         253
       ],
       "popup": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "sidebar_border": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "sidebar_highlight_text": [
-        181,
-        224,
-        226
+        222,
+        222,
+        222
       ],
       "sidebar_highlight": [
-        70,
-        102,
-        119
+        209,
+        255,
+        253
       ],
       "sidebar_text": [
-        181,
-        224,
-        226
+        222,
+        222,
+        222
       ],
       "sidebar": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "tab_background_text": [
         209,
@@ -110,19 +110,19 @@
         253
       ],
       "toolbar_bottom_separator": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "toolbar_field_border": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "toolbar_field_separator": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "toolbar_field_text_focus": [
         209,
@@ -135,19 +135,19 @@
         253
       ],
       "toolbar_field": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ],
       "toolbar_field_border_focus": [
-        70,
-        102,
-        119
+        209,
+        255,
+        253
       ],
       "toolbar": [
-        42,
-        72,
-        92
+        209,
+        255,
+        253
       ]
     }
   }

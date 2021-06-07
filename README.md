@@ -1,15 +1,6 @@
-# `themer`
+# Dark Sea
 
-Your theme's unique URL:
-
-https://themer.dev/?activeColorSet=dark&colors.dark.shade7=%23d1fffd&colors.dark.shade0=%230e2941&colors.dark.accent0=%23ff5877&colors.dark.accent1=%23296489&colors.dark.accent3=%2343c2da&colors.dark.accent2=%23b58ddb&colors.dark.accent4=%2366fcf1&colors.dark.accent5=%23d1e8e2&colors.dark.accent6=%23189cb4&colors.dark.accent7=%232e9cca&colors.dark.shade6=%23dedede&colors.light.shade0=%23e4fbff&colors.light.shade7=%23000946&colors.light.accent0=%23ff5877&colors.light.accent1=%2354b3bf&colors.light.accent2=%23b889c8&colors.light.accent3=%2300d8ff&colors.light.accent4=%233134f0&colors.light.accent5=%230006a1&colors.light.accent6=%235e00ff&colors.light.accent7=%232e9cca&calculateIntermediaryShades.dark=true
-
-If you find `themer` useful, here are some ways to support the project:
-
-* Star [`themer` on GitHub](https://github.com/mjswensen/themer)
-* Follow [@themerdev](https://twitter.com/themerdev) on Twitter
-* [Send a tip through the Brave Browser](https://brave.com/the537), either on [the repository page](https://github.com/mjswensen/themer) or [the Web UI](https://themer.dev)
-* Pay what you want when downloading your theme from [themer.dev](https://themer.dev)
+A dark blue theme
 
 # Installation instructions
 
@@ -61,6 +52,15 @@ Generated files:
 * `CSS/hex.css`
 * `CSS/rgb.css`
 * `CSS/hsl.css`
+
+## Dot Grid Wallpaper
+
+Files generated:
+
+* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-dark-1526x690-1.png`
+* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-dark-1526x690-2.png`
+* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-light-1526x690-1.png`
+* `Dot Grid Wallpaper/themer-wallpaper-dot-grid-light-1526x690-2.png`
 
 ## Emacs
 

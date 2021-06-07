@@ -5,45 +5,45 @@ schemes:
   themer-dark: &dark
     primary:
       background: '#0e2941'
-      foreground: '#b5e0e2'
+      foreground: '#dedede'
 
     cursor:
       text: '#0e2941'
-      cursor: '#189cb4'
+      cursor: '#5194b4'
 
     selection:
       text: '#0e2941'
       background: '#d1e8e2'
 
     normal:
-      black: '#466677'
+      black: '#d1fffd'
       red: '#ff5877'
-      green: '#43c2da'
-      yellow: '#b58ddb'
+      green: '#74ff99'
+      yellow: '#f7ff7c'
       blue: '#d1e8e2'
-      magenta: '#2e9cca'
+      magenta: '#90b1ff'
       cyan: '#66fcf1'
-      white: '#b5e0e2'
+      white: '#dedede'
 
     bright:
-      black: '#628592'
+      black: '#d1fffd'
       red: '#F67992'
-      green: '#5FCEE1'
-      yellow: '#BBA4E2'
+      green: '#87FFAD'
+      yellow: '#EFFF96'
       blue: '#D1EDE7'
-      magenta: '#4FB0D4'
+      magenta: '#9DC1FF'
       cyan: '#7BFDF3'
       white: '#d1fffd'
 
     dim:
-      black: '#2a485c'
+      black: '#d1fffd'
       red: '#CF4F6C'
-      green: '#38A3BB'
-      yellow: '#9479BC'
+      green: '#60D487'
+      yellow: '#C8D470'
       blue: '#AAC2C2'
-      magenta: '#2885AF'
+      magenta: '#7696D9'
       cyan: '#54D2CE'
-      white: '#99c2c7'
+      white: '#d1fffd'
   
 
   themer-light: &light
