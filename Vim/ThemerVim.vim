@@ -3,42 +3,79 @@
   
   if &background == 'dark'
     
-  let s:guishade0 = "#2c2e5b"
-  let s:guishade1 = "#444c72"
-  let s:guishade2 = "#5b6a89"
-  let s:guishade3 = "#7388a0"
-  let s:guishade4 = "#8aa5b8"
-  let s:guishade5 = "#a2c3cf"
-  let s:guishade6 = "#b9e1e6"
+  let s:guishade0 = "#0e2941"
+  let s:guishade1 = "#2a485c"
+  let s:guishade2 = "#466677"
+  let s:guishade3 = "#628592"
+  let s:guishade4 = "#7da3ac"
+  let s:guishade5 = "#99c2c7"
+  let s:guishade6 = "#b5e0e2"
   let s:guishade7 = "#d1fffd"
   let s:guiaccent0 = "#ff5877"
   let s:guiaccent1 = "#296489"
   let s:guiaccent2 = "#b58ddb"
-  let s:guiaccent3 = "#9aff7a"
+  let s:guiaccent3 = "#43c2da"
   let s:guiaccent4 = "#66fcf1"
   let s:guiaccent5 = "#d1e8e2"
-  let s:guiaccent6 = "#b47676"
+  let s:guiaccent6 = "#189cb4"
   let s:guiaccent7 = "#2e9cca"
-  let s:ctermshade0 = 60
+  let s:ctermshade0 = 23
   let s:ctermshade1 = 60
-  let s:ctermshade2 = 103
+  let s:ctermshade2 = 66
   let s:ctermshade3 = 109
-  let s:ctermshade4 = 146
+  let s:ctermshade4 = 109
   let s:ctermshade5 = 152
-  let s:ctermshade6 = 253
+  let s:ctermshade6 = 252
   let s:ctermshade7 = 195
   let s:ctermaccent0 = 210
   let s:ctermaccent1 = 67
   let s:ctermaccent2 = 182
-  let s:ctermaccent3 = 156
+  let s:ctermaccent3 = 80
   let s:ctermaccent4 = 123
   let s:ctermaccent5 = 253
-  let s:ctermaccent6 = 1
+  let s:ctermaccent6 = 38
   let s:ctermaccent7 = 74
   
   endif
   
 
+  
+  if &background == 'light'
+    
+  let s:guishade0 = "#e4fbff"
+  let s:guishade1 = "#c3d8e5"
+  let s:guishade2 = "#a3b6ca"
+  let s:guishade3 = "#8293b0"
+  let s:guishade4 = "#627195"
+  let s:guishade5 = "#414e7b"
+  let s:guishade6 = "#212c60"
+  let s:guishade7 = "#000946"
+  let s:guiaccent0 = "#ff5877"
+  let s:guiaccent1 = "#54b3bf"
+  let s:guiaccent2 = "#b889c8"
+  let s:guiaccent3 = "#00d8ff"
+  let s:guiaccent4 = "#3134f0"
+  let s:guiaccent5 = "#0006a1"
+  let s:guiaccent6 = "#5e00ff"
+  let s:guiaccent7 = "#2e9cca"
+  let s:ctermshade0 = 195
+  let s:ctermshade1 = 253
+  let s:ctermshade2 = 152
+  let s:ctermshade3 = 145
+  let s:ctermshade4 = 103
+  let s:ctermshade5 = 66
+  let s:ctermshade6 = 60
+  let s:ctermshade7 = 17
+  let s:ctermaccent0 = 210
+  let s:ctermaccent1 = 116
+  let s:ctermaccent2 = 182
+  let s:ctermaccent3 = 45
+  let s:ctermaccent4 = 63
+  let s:ctermaccent5 = 19
+  let s:ctermaccent6 = 93
+  let s:ctermaccent7 = 74
+  
+  endif
   
 
   highlight clear

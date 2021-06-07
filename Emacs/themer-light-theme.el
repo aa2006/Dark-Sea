@@ -1,5 +1,5 @@
 
-;;; themer-dark-theme.el
+;;; themer-light-theme.el
 
 ;; Version: 1.0.1
 ;; Package-Requires: ((emacs "24"))
@@ -10,26 +10,26 @@
 
 ;;; Code:
 
-(deftheme themer-dark)
+(deftheme themer-light)
 (let ((class '((class color) (min-colors 89)))
-  (shade0 "#0e2941")
-  (shade1 "#2a485c")
-  (shade2 "#466677")
-  (shade3 "#628592")
-  (shade4 "#7da3ac")
-  (shade5 "#99c2c7")
-  (shade6 "#b5e0e2")
-  (shade7 "#d1fffd")
+  (shade0 "#e4fbff")
+  (shade1 "#c3d8e5")
+  (shade2 "#a3b6ca")
+  (shade3 "#8293b0")
+  (shade4 "#627195")
+  (shade5 "#414e7b")
+  (shade6 "#212c60")
+  (shade7 "#000946")
   (accent0 "#ff5877")
-  (accent1 "#296489")
-  (accent2 "#b58ddb")
-  (accent3 "#43c2da")
-  (accent4 "#66fcf1")
-  (accent5 "#d1e8e2")
-  (accent6 "#189cb4")
+  (accent1 "#54b3bf")
+  (accent2 "#b889c8")
+  (accent3 "#00d8ff")
+  (accent4 "#3134f0")
+  (accent5 "#0006a1")
+  (accent6 "#5e00ff")
   (accent7 "#2e9cca"))
 (custom-theme-set-faces
-  'themer-dark
+  'themer-light
   `(default ((,class (:background ,shade0 :foreground ,shade7))))
   `(font-lock-builtin-face ((,class (:foreground ,accent5))))
   `(font-lock-comment-face ((,class (:foreground ,shade3))))
@@ -150,14 +150,14 @@
   `(magit-diff-file-header ((,class (:foreground ,shade6 :background ,shade2))))
   `(lazy-highlight ((,class (:foreground ,shade6 :background ,shade2))))
   `(term ((,class (:foreground ,shade6 :background ,shade0))))
-  `(term-color-black ((,class (:foreground ,shade2 :background ,shade0))))
+  `(term-color-black ((,class (:foreground ,shade6 :background ,shade0))))
   `(term-color-blue ((,class (:foreground ,accent5 :background ,shade0))))
   `(term-color-red ((,class (:foreground ,accent0 :background ,shade0))))
   `(term-color-green ((,class (:foreground ,accent3 :background ,shade0))))
   `(term-color-yellow ((,class (:foreground ,accent2 :background ,shade0))))
   `(term-color-magenta ((,class (:foreground ,accent7 :background ,shade0))))
   `(term-color-cyan ((,class (:foreground ,accent4 :background ,shade0))))
-  `(term-color-white ((,class (:foreground ,shade6 :background ,shade0))))
+  `(term-color-white ((,class (:foreground ,shade2 :background ,shade0))))
   `(rainbow-delimiters-unmatched-face ((,class :foreground ,accent0)))
   `(helm-header ((,class (:foreground ,shade6 :background ,shade0 :underline nil :box nil))))
   `(helm-source-header ((,class (:foreground ,accent1 :background ,shade0 :underline nil :weight bold))))
@@ -225,10 +225,10 @@
   (add-to-list 'custom-theme-load-path
     (file-name-as-directory (file-name-directory load-file-name))))
 
-(provide-theme 'themer-dark)
+(provide-theme 'themer-light)
 
 ;; Local Variables:
 ;; no-byte-compile: t
 ;; End:
 
-;;; themer-dark-theme.el ends here
+;;; themer-light-theme.el ends here

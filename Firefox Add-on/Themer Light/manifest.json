@@ -1,153 +1,153 @@
 {
   "version": "1.0.1",
   "manifest_version": 2,
-  "name": "Themer Dark",
+  "name": "Themer Light",
   "theme": {
     "colors": {
       "bookmark_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "frame": [
-        14,
-        41,
-        65
+        195,
+        216,
+        229
       ],
       "frame_inactive": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "icons_attention": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "icons": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "ntp_background": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "ntp_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "popup_highlight_text": [
-        70,
-        102,
-        119
+        163,
+        182,
+        202
       ],
       "popup_highlight": [
-        181,
-        224,
-        226
+        33,
+        44,
+        96
       ],
       "toolbar_field_highlight_text": [
-        70,
-        102,
-        119
+        163,
+        182,
+        202
       ],
       "popup_border": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "popup_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "popup": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "sidebar_border": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "sidebar_highlight_text": [
-        181,
-        224,
-        226
+        33,
+        44,
+        96
       ],
       "sidebar_highlight": [
-        70,
-        102,
-        119
+        163,
+        182,
+        202
       ],
       "sidebar_text": [
-        181,
-        224,
-        226
+        33,
+        44,
+        96
       ],
       "sidebar": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "tab_background_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_loading": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "toolbar_bottom_separator": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "toolbar_field_border": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "toolbar_field_separator": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "toolbar_field_text_focus": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "toolbar_field_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "toolbar_field": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "toolbar_field_border_focus": [
-        70,
-        102,
-        119
+        163,
+        182,
+        202
       ],
       "toolbar": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ]
     }
   }

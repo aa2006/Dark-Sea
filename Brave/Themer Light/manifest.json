@@ -1,73 +1,73 @@
 {
   "version": "1.2.1",
   "manifest_version": 2,
-  "name": "Themer Dark",
+  "name": "Themer Light",
   "theme": {
     "colors": {
       "bookmark_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "frame": [
-        14,
-        41,
-        65
+        195,
+        216,
+        229
       ],
       "ntp_background": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "ntp_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_background_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_background_text_inactive": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_background_text_incognito": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_background_text_incognito_inactive": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "tab_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "toolbar": [
-        42,
-        72,
-        92
+        228,
+        251,
+        255
       ],
       "omnibox_text": [
-        209,
-        255,
-        253
+        0,
+        9,
+        70
       ],
       "omnibox_background": [
-        14,
-        41,
-        65
+        195,
+        216,
+        229
       ]
     },
     "tints": {
       "buttons": [
-        0.4565217391304347,
+        0.660455486542443,
         0.5,
         0.5
       ],
@@ -77,14 +77,14 @@
         -1
       ],
       "frame_incognito": [
-        0.5256410256410258,
+        0.7281045751633987,
         1,
-        0.55
+        0.45
       ],
       "frame_incognito_inactive": [
-        0.5256410256410258,
+        0.7281045751633987,
         1,
-        0.55
+        0.45
       ]
     }
   }

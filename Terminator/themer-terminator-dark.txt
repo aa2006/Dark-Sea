@@ -1,5 +1,5 @@
 [[Themer dark]]
-  background_color = "#2c2e5b"
-  cursor_color = "#b9e1e6"
-  foreground_color = "#b9e1e6"
-  palette = "#2c2e5b:#ff5877:#9aff7a:#b58ddb:#66fcf1:#b47676:#2e9cca:#b9e1e6:#a2c3cf:#ff5877:#66fcf1:#b58ddb:#d1e8e2:#b47676:#2e9cca:#d1fffd"
+  background_color = "#0e2941"
+  cursor_color = "#b5e0e2"
+  foreground_color = "#b5e0e2"
+  palette = "#0e2941:#ff5877:#43c2da:#b58ddb:#66fcf1:#189cb4:#2e9cca:#b5e0e2:#99c2c7:#ff5877:#66fcf1:#b58ddb:#d1e8e2:#189cb4:#2e9cca:#d1fffd"

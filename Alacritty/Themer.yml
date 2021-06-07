@@ -4,31 +4,31 @@
 schemes:
   themer-dark: &dark
     primary:
-      background: '#2c2e5b'
-      foreground: '#b9e1e6'
+      background: '#0e2941'
+      foreground: '#b5e0e2'
 
     cursor:
-      text: '#2c2e5b'
-      cursor: '#b47676'
+      text: '#0e2941'
+      cursor: '#189cb4'
 
     selection:
-      text: '#2c2e5b'
+      text: '#0e2941'
       background: '#d1e8e2'
 
     normal:
-      black: '#5b6a89'
+      black: '#466677'
       red: '#ff5877'
-      green: '#9aff7a'
+      green: '#43c2da'
       yellow: '#b58ddb'
       blue: '#d1e8e2'
       magenta: '#2e9cca'
       cyan: '#66fcf1'
-      white: '#b9e1e6'
+      white: '#b5e0e2'
 
     bright:
-      black: '#7388a0'
+      black: '#628592'
       red: '#F67992'
-      green: '#A5FF94'
+      green: '#5FCEE1'
       yellow: '#BBA4E2'
       blue: '#D1EDE7'
       magenta: '#4FB0D4'
@@ -36,12 +36,56 @@ schemes:
       white: '#d1fffd'
 
     dim:
-      black: '#444c72'
-      red: '#D55071'
-      green: '#84D574'
-      yellow: '#9A7AC1'
-      blue: '#B0C3C7'
-      magenta: '#2E86B4'
-      cyan: '#5AD3D3'
-      white: '#a2c3cf'
+      black: '#2a485c'
+      red: '#CF4F6C'
+      green: '#38A3BB'
+      yellow: '#9479BC'
+      blue: '#AAC2C2'
+      magenta: '#2885AF'
+      cyan: '#54D2CE'
+      white: '#99c2c7'
+  
+
+  themer-light: &light
+    primary:
+      background: '#e4fbff'
+      foreground: '#212c60'
+
+    cursor:
+      text: '#e4fbff'
+      cursor: '#5e00ff'
+
+    selection:
+      text: '#e4fbff'
+      background: '#0006a1'
+
+    normal:
+      black: '#212c60'
+      red: '#ff5877'
+      green: '#00d8ff'
+      yellow: '#b889c8'
+      blue: '#0006a1'
+      magenta: '#2e9cca'
+      cyan: '#3134f0'
+      white: '#a3b6ca'
+
+    bright:
+      black: '#414e7b'
+      red: '#FA7992'
+      green: '#2EDFFF'
+      yellow: '#C1A0D3'
+      blue: '#2E37B4'
+      magenta: '#52AFD5'
+      cyan: '#555CF3'
+      white: '#c3d8e5'
+
+    dim:
+      black: '#000946'
+      red: '#CC486D'
+      green: '#00AFDA'
+      yellow: '#936FAE'
+      blue: '#00078F'
+      magenta: '#257FB0'
+      cyan: '#272BCE'
+      white: '#8293b0'
   

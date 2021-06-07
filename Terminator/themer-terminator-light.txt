@@ -1,0 +1,5 @@
+[[Themer light]]
+  background_color = "#e4fbff"
+  cursor_color = "#212c60"
+  foreground_color = "#212c60"
+  palette = "#e4fbff:#ff5877:#00d8ff:#b889c8:#3134f0:#5e00ff:#2e9cca:#212c60:#414e7b:#ff5877:#3134f0:#b889c8:#0006a1:#5e00ff:#2e9cca:#000946"
