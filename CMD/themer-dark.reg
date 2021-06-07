@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:005b2e2c
+"ColorTable01"=dword:00e2e8d1
+"ColorTable02"=dword:007aff9a
+"ColorTable03"=dword:00f1fc66
+"ColorTable04"=dword:007758ff
+"ColorTable05"=dword:007676b4
+"ColorTable06"=dword:00db8db5
+"ColorTable07"=dword:00e6e1b9
+"ColorTable08"=dword:00724c44
+"ColorTable09"=dword:00e2e8d1
+"ColorTable10"=dword:007aff9a
+"ColorTable11"=dword:00f1fc66
+"ColorTable12"=dword:007758ff
+"ColorTable13"=dword:00ca9c2e
+"ColorTable14"=dword:00db8db5
+"ColorTable15"=dword:00fdffd1
+"ScreenColors"=dword:00000007
+"PopupColors"=dword:0000008b
+    
